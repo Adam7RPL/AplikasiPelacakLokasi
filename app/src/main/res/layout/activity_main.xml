@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="134dp"
         android:layout_height="51dp"
-        android:background="#F44336"
+        android:background="@color/colorAccent"
         android:gravity="center"
         android:textStyle="bold"
         android:text="Lokasi1"
@@ -20,7 +20,7 @@
     <TextView
         android:layout_width="134dp"
         android:layout_height="51dp"
-        android:background="#F44336"
+        android:background="@color/colorAccent"
         android:gravity="center"
         android:textStyle="bold"
         android:text="Lokasi2"
@@ -29,7 +29,7 @@
     <TextView
         android:layout_width="134dp"
         android:layout_height="51dp"
-        android:background="#F44336"
+        android:background="@color/colorAccent"
         android:gravity="center"
         android:textStyle="bold"
         android:text="Lokasi3"
@@ -58,14 +58,7 @@
             android:text="Lokasi5"
             android:textSize="30dp"
 
-        <TextView
-            android:layout_width="134dp"
-            android:layout_height="51dp"
-            android:background="#0000FF"
-            android:gravity="center"
-            android:textStyle="bold"
-            android:text="Lokasi6"
-            android:textSize="30dp"
+    </LinearLayout>
 
 
     </LinearLayout>
